@@ -1,0 +1,1 @@
+# Deteccao_de_Falha_em-Equipamentos_Rotativos_Atraves_de_Analise_de_Vibracao_Utilizando_Redes_Neurais
