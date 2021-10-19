@@ -60,44 +60,27 @@ Os valores exatos de eficácia obtidos são mostrados abaixo:
     - *CNN-dense*:    
       Eficácia: 95,12%    
       Matriz de confusão:
-
-  [[42  4]
-  
-   [ 0 36]]
+      
+      ![CNN-dense](https://github.com/secretaria-ICA/Deteccao_de_Falha_em_Equipamentos_Rotativos_Atraves_de_Analise_de_Vibracao_Utilizando_Redes_Neurais/blob/main/matriz1.PNG)
    
     - *Dense*:    
       Eficácia: 95,12%    
       Matriz de confusão:
 
-$$
-\begin{bmatrix}
-42 & 4\\ 
-0 & 36\\
-\end{bmatrix}
-$$
+      ![Dense](https://github.com/secretaria-ICA/Deteccao_de_Falha_em_Equipamentos_Rotativos_Atraves_de_Analise_de_Vibracao_Utilizando_Redes_Neurais/blob/main/matriz2.PNG)
 
 - Sinais de envelope (801 pontos):
     - *CNN-dense*:  
       Eficácia: 93,90%     
       Matriz de confusão:     
 
-$$
-\begin{bmatrix}
-41 & 5\\ 
-0 & 36\\
-\end{bmatrix}&&
-
+      ![CNN-dense](https://github.com/secretaria-ICA/Deteccao_de_Falha_em_Equipamentos_Rotativos_Atraves_de_Analise_de_Vibracao_Utilizando_Redes_Neurais/blob/main/matriz3.PNG)
         
     - *Dense*:         
       Eficácia: 91,46%    
       Matriz de confusão:       
        
-$$
-\begin{bmatrix}
-39 & 7\\ 
-0 & 36\\
-\end{bmatrix}
-$$
+      ![Dense](https://github.com/secretaria-ICA/Deteccao_de_Falha_em_Equipamentos_Rotativos_Atraves_de_Analise_de_Vibracao_Utilizando_Redes_Neurais/blob/main/matriz4.PNG)
 
 ### 4. Conclusões
 
